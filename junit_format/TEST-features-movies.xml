@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="4" time="390.830471" name="Testing Movies app functionality">
+<testcase classname="Testing Movies app functionality" name="Count How many movies are on &quot;Featured&quot; screen" time="43.205521">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Testing Movies app functionality" name="Print movie information for first n movies" time="87.680921">
+  <system-out>
+    <![CDATA[The Martian with rating 7.7
+Spectre with rating 6.5
+Crimson Peak with rating 6.0
+The Last Witch Hunter with rating 4.9
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Testing Movies app functionality" name="Get movie with the highest raiting from the first 5 movies" time="65.430033">
+  <system-out>
+    <![CDATA[The Martian with rating 7.7
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Testing Movies app functionality" name="Select movies with the highest raiting from all available movies" time="194.513996">
+  <system-out>
+    <![CDATA[Necroland with rating 9.0
+The Martian with rating 7.7
+Spectre with rating 6.5
+The Peanuts Movie with rating 6.3
+Crimson Peak with rating 6.0
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
